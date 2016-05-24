@@ -2,4 +2,4 @@
 
 
 
-After [misogynistic murder near Gangnam Station](http://koreajoongangdaily.joins.com/news/article/article.aspx?aid=3018936&cloc=joongangdaily%7Chome%7Ctop), people left message of condolence with Post-it at exit 10 of Gangnam station. [KyoungHyang Daily transcribed these messages before they got moved to the other space and put them on their site](http://news.khan.co.kr/kh_news/khan_art_view.html?artid=201605231716001). The `json` file of this repo has the contents of Post-it extracted from KyoungHyang Daily's article. 
+After [misogynistic murder near Gangnam Station](http://koreajoongangdaily.joins.com/news/article/article.aspx?aid=3018936&cloc=joongangdaily%7Chome%7Ctop), people left message of condolence with Post-it at exit 10 of Gangnam station. [KyoungHyang Daily transcribed these messages before they got moved to the other space and put the result on their site](http://news.khan.co.kr/kh_news/khan_art_view.html?artid=201605231716001). The `json` file of this repo has the contents of Post-it extracted from KyoungHyang Daily's article. 
